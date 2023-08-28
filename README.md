@@ -1,2 +1,3 @@
 # darshan
-i am on github
+this is my first github repository 
+Author- darshan thoke
